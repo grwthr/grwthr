@@ -155,5 +155,3 @@ def main():
 
 if (__name__ == '__main__'):
     main()
-
-#insert_post('5625656235623566235', parser.parse('014-07-02T12:16:10+0000'), "Hello world")
